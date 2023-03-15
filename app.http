@@ -18,8 +18,9 @@ PUT http://localhost:3000/players/1
 Content-Type:application/json
 
 {
-  "playerName": "Maneesh",
-  "jerseyNumber": 54,
+  "playerId": 1,
+  "playerName": "Lakshman",
+  "jerseyNumber": 5,
   "role": "All-rounder"
 }
 
